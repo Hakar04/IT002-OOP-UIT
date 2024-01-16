@@ -10,7 +10,8 @@ Học kỳ 2, năm học 2022-2023
 # Các quy định về điểm
 
 **Quy định Điểm Quá trình (20% Điểm Môn học):**
-           Điểm Quá trình = (Điểm Chuyên cần Lý thuyết + Điểm Chuyên cần Thực hành) / 2
+
+     Điểm Quá trình = (Điểm Chuyên cần Lý thuyết + Điểm Chuyên cần Thực hành) / 2
 
 **Tính Điểm Chuyên cần:**
 - Mặc định SV được 10đ chuyên cần Lý thuyết và Thực hành.
