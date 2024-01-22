@@ -7,6 +7,12 @@ Học kỳ 2, năm học 2022-2023
 **Giảng viên:**
 - Trần Thị Hồng Yến
 
+**Ngôn ngữ lập trình:**
+- C++
+
+**Phần mềm lập trình:**
+- Visual studio
+
 # Các quy định về điểm
 
 **Quy định Điểm Quá trình (20% Điểm Môn học):**
